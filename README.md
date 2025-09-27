@@ -159,6 +159,10 @@
 
 ## Как запустить
 
+**!ВАЖНО!**<br>Версии для `rubert` ноутбука:
+- `sentence-transformers==3.1.1`
+- `transformers==4.45.2`
+
 1. Установите зависимости:
 ```bash
 pip install torch datasets sentence-transformers scikit-learn
@@ -171,6 +175,6 @@ jupyter notebook
 
 3. Откройте необходимый ноутбук
 
-**!ВАЖНО!**<br>Версии для `rubert` ноутбука:
-- `sentence-transformers==3.1.1`
-- `transformers==4.45.2`
+4. Аппаратные требования
+- Рекомендуется GPU (например, Google Colab с `T4/V100/A100`)
+- Объём памяти: от `12 ГБ` и выше для комфортного обучения
