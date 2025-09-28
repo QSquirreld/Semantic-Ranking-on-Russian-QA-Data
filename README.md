@@ -87,21 +87,21 @@
 |----------------|-------|-------|----------|---------|
 |rubert + sberquad|Pearson (cosine)|0.765|0.879|+0.114|
 |                |Spearman (cosine)|0.778|0.840|+0.062|
-|multilingual-e5 + russian_instructions_2|Pearson (cosine)|0.874|0.923|+0.049|
-|                |Spearman (cosine)|0.855|0.854|-0.001|
+|multilingual-e5 + russian_instructions_2|Pearson (cosine)|**0.874**|**0.923**|+0.049|
+|                |Spearman (cosine)|**0.855**|**0.854**|-0.001|
 
 Метрики ранжирования:
 
 |Модель и датасет|Метрика|Initial|Fine-Tuned|Изменение|
 |----------------|-------|-------|----------|---------|
-|rubert + sberquad|Recall5@167|0.880|0.892|+0.012|
+|rubert + sberquad|Recall5@167|0.880|**0.892**|+0.012|
 |                |MRR|0.787|0.775|-0.012|
 |                |rmAP|0.787|0.775|-0.012|
 |                |NDCG10@167|0.822|0.823|~0|
-|multilingual-e5 + russian_instructions_2|Recall5@1000|0.886|0.886|0|
-|                |MRR|0.794|0.794|0|
-|                |rmAP|0.794|0.794|0|
-|                |NDCG10@1000|0.826|0.826|0|
+|multilingual-e5 + russian_instructions_2|Recall5@1000|**0.886**|0.886|0|
+|                |MRR|**0.794**|**0.794**|0|
+|                |rmAP|**0.794**|**0.794**|0|
+|                |NDCG10@1000|**0.826**|**0.826**|0|
 
 ## Выводы
 
