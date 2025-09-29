@@ -152,7 +152,7 @@
 
 1. Установите зависимости:
 ```bash
-pip install torch datasets sentence-transformers scikit-learn
+pip install torch datasets transformers sentence-transformers scikit-learn
 ```
 
 2. Запустите Jupyter Notebook:
