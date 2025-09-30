@@ -21,7 +21,7 @@
 
 ## Модели
 
-1. [`cointegrated/rubert-tiny2`](https://huggingface.co/cointegrated/rubert-tiny2) — легковесная модель BERT, специально обученная на русскоязычных текстах
+1. [`cointegrated/rubert-tiny2`](https://huggingface.co/cointegrated/rubert-tiny2) — легковесная модель BERT, добученная на русскоязычных текстах
 2. [`intfloat/multilingual-e5-small`](https://huggingface.co/intfloat/multilingual-e5-small) — мультилингвальная модель, обученная на параллельных инструкциях на нескольких языках
 - Архитектура: **bi-encoder**
 - Добавлен слой **pooling** для генерации векторного представления цельной последовательности
