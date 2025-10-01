@@ -168,4 +168,4 @@ jupyter notebook
 
 ## Связанные проекты
 
-- [Weaviate QA and RAG]([https://github.com/ТВОЙ_НОВЫЙ_РЕПО](https://github.com/QSquirreld/Weaviate-QA-n-RAG)) — версия проекта с векторной базой Weaviate, поддержкой генеративного и экстрактивного поиска.
+- [Weaviate QA and RAG](https://github.com/QSquirreld/Weaviate-QA-n-RAG) — версия проекта с векторной базой Weaviate, поддержкой генеративного и экстрактивного поиска.
