@@ -28,7 +28,7 @@
 
 ## Датасеты
 
-1. [`sberquad`](https://huggingface.co/datasets/kuznetsoffandrey/sberquad) — рускоязычный датасет, содержащий ответы на вопросы широкого спектра
+1. [`sberquad`](https://huggingface.co/datasets/kuznetsoffandrey/sberquad) — руcскоязычный датасет, содержащий ответы на вопросы широкого спектра
 - Тип: `Question Answering`
 - Язык: `Русский`
 - Формат:
